@@ -6,4 +6,6 @@ fun main() {
 
     design = 10
     println("Total: $design")
+    design--
+    println("Total: $design")
 }
